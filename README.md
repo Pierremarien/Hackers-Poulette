@@ -26,6 +26,8 @@ The company Hackers Poulette ™ sells Raspberry Pi accessory kits to build your
 
 - The honneypot should be worked more on with maybe a better naming (naming it honeypot was just to say it's there but i guess to make it real i would choose a more descrete name)
 
+- Maybe make a better event listener than blur (on focus switch) for the client side validation i'm not liking how it works.
+
 
 ## Deployment
 
