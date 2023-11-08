@@ -39,8 +39,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         $message_body = "Name: $first_name $last_name\n";
         $message_body .= "Email: $email\n";
         $message_body .= "Country: $country\n";
-        $message_body .= "Message: $message\n";
-
+        $message_body .= "Message:SW$message\n";
+ 
         if (mail($to, $subject, $message_body)) {
             echo "Your message has been sent successfully.";
         } else {

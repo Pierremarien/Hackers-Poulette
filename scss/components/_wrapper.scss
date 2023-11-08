@@ -1,0 +1,17 @@
+.wrapper {
+    border: 1px solid #303030;
+    background-color: #0d8187;
+    border-radius: 10px;
+    padding: 60px;
+    box-shadow: 10px 10px 5px 6px rgba(48,48,48,0.75);
+    -webkit-box-shadow: 10px 10px 5px 6px rgba(48,48,48,0.75);
+    -moz-box-shadow: 10px 10px 5px 6px rgba(48,48,48,0.75);
+
+    div {
+        margin-top: 20px;
+    }
+
+    &:hover{
+        transform: scale(1.01);
+    }
+}

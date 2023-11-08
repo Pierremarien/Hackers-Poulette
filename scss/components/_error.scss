@@ -1,0 +1,19 @@
+.error {
+    background-color: #FFF;
+    position: relative;
+    font-size: 1.01em;
+    text-align: center;
+    position: relative;
+    padding: 20px;
+
+    &::after {
+        content: "";
+        border: 20px solid transparent;
+        position: absolute;
+        border-bottom-color: #FFF;
+        border-top: 0;
+        top: -20px; 
+        left: 50%;
+        margin-left: -20px;
+    }
+}
