@@ -28,6 +28,8 @@ The company Hackers Poulette ™ sells Raspberry Pi accessory kits to build your
 
 - Maybe make a better event listener than blur (on focus switch) for the client side validation i'm not liking how it works.
 
+-The code neds some refactoring too the js should be in a separated file ad the validation process in php and the sending of the email should not redirect to a new page i'm working on it
+
 
 ## Deployment
 
