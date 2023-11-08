@@ -30,3 +30,7 @@ The company Hackers Poulette ™ sells Raspberry Pi accessory kits to build your
 ## Deployment
 
 There is no deployment for this project yet.
+
+## Mockup
+
+![mockup](mockup.png)
